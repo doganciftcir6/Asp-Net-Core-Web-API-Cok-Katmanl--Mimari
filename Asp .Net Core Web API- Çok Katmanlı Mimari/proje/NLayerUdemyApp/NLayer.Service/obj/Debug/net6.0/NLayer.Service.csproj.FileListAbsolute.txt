@@ -1,0 +1,34 @@
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.deps.json
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.dll
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.pdb
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.dll
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.AssemblyReference.cache
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfoInputs.cache
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfo.cs
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CoreCompileInputs.cache
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CopyComplete
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.dll
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\refint\NLayer.Service.dll
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.deps.json
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.dll
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.pdb
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.dll
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.AssemblyReference.cache
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfoInputs.cache
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfo.cs
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CoreCompileInputs.cache
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CopyComplete
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.dll
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\refint\NLayer.Service.dll
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
+C:\Users\Rabiaİslamyan\Desktop\UDEMY\Fatih Çakıroğlu\Asp .Net Core Web API- Çok Katmanlı Mimari\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll
